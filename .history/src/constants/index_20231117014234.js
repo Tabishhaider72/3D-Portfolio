@@ -208,8 +208,8 @@ export const projects = [
         iconUrl: snapgram,
         theme: 'btn-back-pink',
         name: 'AI Express -SaaS Platform',
-        description: 'full-stack AI web application that hosts five distinct AI tools, from image and video generation to conversation models and code generation, catering to diverse creative needs.',
-        link: 'https://aiexpress-in.vercel.app/',
+        description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
+        link: 'https://github.com/adrianhajdin/social_media_app',
     },
     {
         iconUrl: estate,
