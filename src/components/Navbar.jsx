@@ -18,7 +18,7 @@ const Navbar = () => {
         <Button
           variant="contained"
           color="primary"
-          onClick={() => window.open("https://drive.google.com/file/d/11mtYICf1gnhZnEZ40B4k6EtkGWnOQ5g_/view", "_blank")}
+          onClick={() => window.open("https://drive.google.com/file/d/14739IX01arsBI0qC36W9bzn2Ge4EAGAM/view?usp=sharing", "_blank")}
         >
           Resume
         </Button>
